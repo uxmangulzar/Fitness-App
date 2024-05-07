@@ -1,0 +1,52 @@
+{
+  "foods": [
+    {
+      "name": "Apple",
+      "calories": 95,
+      "nutrients": {
+        "vitamin_C": "7%",
+        "fiber": "14%",
+        "vitamin_A": "1%",
+        "calcium": "0%",
+        "iron": "1%"
+      },
+      "macros": {
+        "carbohydrates": "25g",
+        "protein": "0.5g",
+        "fat": "0.3g"
+      }
+    },
+    {
+      "name": "Chicken Breast (skinless, boneless)",
+      "calories": 165,
+      "nutrients": {
+        "vitamin_C": "0%",
+        "fiber": "0%",
+        "vitamin_A": "0%",
+        "calcium": "0%",
+        "iron": "3%"
+      },
+      "macros": {
+        "carbohydrates": "0g",
+        "protein": "31g",
+        "fat": "3.6g"
+      }
+    },
+    {
+      "name": "Brown Rice (cooked)",
+      "calories": 215,
+      "nutrients": {
+        "vitamin_C": "0%",
+        "fiber": "2%",
+        "vitamin_A": "0%",
+        "calcium": "1%",
+        "iron": "2%"
+      },
+      "macros": {
+        "carbohydrates": "45g",
+        "protein": "5g",
+        "fat": "1.8g"
+      }
+    }
+  ]
+}

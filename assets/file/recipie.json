@@ -1,0 +1,478 @@
+[
+  {
+    "recipe": {
+      "name": "Spaghetti Carbonara",
+      "calories": 450,
+      "image": "https://example.com/spaghetti_carbonara.jpg",
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta or guanciale, diced",
+        "2 large eggs",
+        "50g Pecorino Romano cheese, grated",
+        "Salt and black pepper to taste",
+        "Fresh parsley, chopped (for garnish)"
+      ],
+      "instructions": [
+        "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente. Drain and set aside.",
+        "In a skillet, cook the diced pancetta or guanciale over medium heat until it becomes crispy. Remove from heat and drain on paper towels.",
+        "In a bowl, whisk together the eggs and grated Pecorino Romano cheese. Season with a pinch of black pepper.",
+        "Toss the cooked spaghetti and crispy pancetta with the egg and cheese mixture until well coated. The heat from the pasta will cook the eggs and create a creamy sauce. Add salt to taste.",
+        "Serve hot, garnished with chopped fresh parsley and extra grated cheese if desired."
+      ],
+      "serving_size": "2 servings"
+    }
+  },
+  {
+    "recipe": {
+      "name": "Chicken Alfredo",
+      "calories": 600,
+      "image": "https://example.com/chicken_alfredo.jpg",
+      "ingredients": [
+        "8 oz fettuccine pasta",
+        "2 boneless, skinless chicken breasts, sliced",
+        "2 cups heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "2 cloves garlic, minced",
+        "2 tablespoons butter",
+        "Salt and black pepper to taste",
+        "Chopped fresh parsley (for garnish)"
+      ],
+      "instructions": [
+        "Cook fettuccine pasta according to package instructions. Drain and set aside.",
+        "Season chicken breast slices with salt and black pepper.",
+        "In a large skillet, melt butter over medium-high heat. Add chicken slices and cook until no longer pink, about 5-7 minutes. Remove chicken from skillet and set aside.",
+        "In the same skillet, add minced garlic and cook for 1 minute. Pour in heavy cream and grated Parmesan cheese. Stir until the sauce thickens.",
+        "Return cooked chicken to the skillet and simmer for a few more minutes until heated through.",
+        "Serve the chicken Alfredo over the cooked fettuccine pasta, garnished with chopped fresh parsley."
+      ],
+      "serving_size": "4 servings"
+    }
+  },
+
+    {
+      "recipe": {
+        "name": "Homemade Pizza",
+        "calories": 350,
+        "image": "https://example.com/homemade_pizza.jpg",
+        "ingredients": [
+          "1 pizza dough",
+          "1/2 cup pizza sauce",
+          "1 cup shredded mozzarella cheese",
+          "Toppings of your choice (e.g., pepperoni, mushrooms, bell peppers)",
+          "Olive oil for brushing"
+        ],
+        "instructions": [
+          "Preheat your oven to 475°F (245°C).",
+          "Roll out the pizza dough on a floured surface to your desired thickness.",
+          "Spread pizza sauce evenly over the dough, leaving a border for the crust.",
+          "Sprinkle shredded mozzarella cheese over the sauce.",
+          "Add your favorite toppings.",
+          "Brush the crust with olive oil for a golden finish.",
+          "Bake in the preheated oven for 12-15 minutes, or until the crust is golden and the cheese is bubbly and slightly browned.",
+          "Slice and serve hot."
+        ],
+        "serving_size": "4 servings"
+      }
+    },
+    {
+      "recipe": {
+        "name": "Classic Caesar Salad",
+        "calories": 250,
+        "image": "https://example.com/caesar_salad.jpg",
+        "ingredients": [
+          "1 head of romaine lettuce, chopped",
+          "1/2 cup Caesar dressing",
+          "1/4 cup grated Parmesan cheese",
+          "1 cup croutons",
+          "1 lemon, juiced",
+          "Salt and black pepper to taste"
+        ],
+        "instructions": [
+          "In a large salad bowl, combine chopped romaine lettuce and croutons.",
+          "In a small bowl, whisk together Caesar dressing and lemon juice.",
+          "Drizzle the dressing over the salad and toss until well coated.",
+          "Sprinkle grated Parmesan cheese on top and season with salt and black pepper.",
+          "Serve immediately as an appetizer or side dish."
+        ],
+        "serving_size": "2 servings"
+      }
+    },
+    {
+      "recipe": {
+        "name": "Beef Tacos",
+        "calories": 400,
+        "image": "https://example.com/beef_tacos.jpg",
+        "ingredients": [
+          "1 lb ground beef",
+          "1 packet taco seasoning",
+          "8 small taco shells",
+          "1 cup shredded cheddar cheese",
+          "1 cup shredded lettuce",
+          "1 tomato, diced",
+          "1/2 cup diced onions",
+          "Sour cream and salsa for garnish"
+        ],
+        "instructions": [
+          "In a skillet, brown ground beef over medium-high heat. Drain excess fat.",
+          "Add taco seasoning and water (according to package instructions) to the beef. Simmer until the mixture thickens.",
+          "Warm taco shells in the oven according to package instructions.",
+          "Fill each taco shell with the beef mixture, shredded cheese, lettuce, tomato, and onions.",
+          "Serve with sour cream and salsa."
+        ],
+        "serving_size": "4 servings"
+      }
+    },
+    {
+      "recipe": {
+        "name": "Vegetable Stir-Fry",
+        "calories": 300,
+        "image": "https://example.com/vegetable_stir_fry.jpg",
+        "ingredients": [
+          "2 cups mixed vegetables (e.g., broccoli, bell peppers, carrots, snap peas)",
+          "1 tablespoon vegetable oil",
+          "2 cloves garlic, minced",
+          "1/4 cup soy sauce",
+          "1 tablespoon cornstarch",
+          "1 teaspoon sugar",
+          "Cooked rice for serving"
+        ],
+        "instructions": [
+          "In a small bowl, whisk together soy sauce, cornstarch, and sugar. Set aside.",
+          "Heat vegetable oil in a wok or large skillet over high heat.",
+          "Add minced garlic and stir-fry for about 30 seconds until fragrant.",
+          "Add mixed vegetables and stir-fry for 3-4 minutes until they are tender-crisp.",
+          "Pour the sauce over the vegetables and stir-fry for an additional 2 minutes until the sauce thickens.",
+          "Serve the vegetable stir-fry over cooked rice."
+        ],
+        "serving_size": "2 servings"
+      }
+    },
+    {
+      "recipe": {
+        "name": "Chocolate Chip Cookies",
+        "calories": 150,
+        "image": "https://example.com/chocolate_chip_cookies.jpg",
+        "ingredients": [
+          "1 cup butter, softened",
+          "3/4 cup granulated sugar",
+          "3/4 cup brown sugar",
+          "2 large eggs",
+          "1 teaspoon vanilla extract",
+          "2 1/4 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1/2 teaspoon salt",
+          "2 cups chocolate chips"
+        ],
+        "instructions": [
+          "Preheat your oven to 375°F (190°C).",
+          "In a large mixing bowl, cream together softened butter, granulated sugar, and brown sugar until light and fluffy.",
+          "Add eggs one at a time, beating well after each addition. Stir in vanilla extract.",
+          "In a separate bowl, whisk together all-purpose flour, baking soda, and salt.",
+          "Gradually add the dry ingredients to the butter mixture, mixing until well combined.",
+          "Stir in chocolate chips.",
+          "Drop rounded tablespoons of cookie dough onto ungreased baking sheets.",
+          "Bake in the preheated oven for 9-11 minutes or until the edges are golden brown.",
+          "Allow the cookies to cool on the baking sheets for a few minutes before transferring them to wire racks to cool completely."
+        ],
+        "serving_size": "36 cookies"
+      }
+    },
+    {
+      "recipe": {
+        "name": "Greek Salad",
+        "calories": 200,
+        "image": "https://example.com/greek_salad.jpg",
+        "ingredients": [
+          "1 cucumber, diced",
+          "2 tomatoes, diced",
+          "1/2 red onion, thinly sliced",
+          "1/2 cup Kalamata olives",
+          "1/2 cup crumbled feta cheese",
+          "1/4 cup extra-virgin olive oil",
+          "2 tablespoons red wine vinegar",
+          "1 teaspoon dried oregano",
+          "Salt and black pepper to taste"
+        ],
+        "instructions": [
+          "In a large salad bowl, combine diced cucumber, diced tomatoes, thinly sliced red onion, and Kalamata olives.",
+          "In a small bowl, whisk together extra-virgin olive oil, red wine vinegar, dried oregano, salt, and black pepper.",
+          "Drizzle the dressing over the salad and toss until well combined.",
+          "Top the salad with crumbled feta cheese.",
+          "Serve as a refreshing side dish."
+        ],
+        "serving_size": "4 servings"
+      }
+    },
+  {
+    "recipe": {
+      "name": "Chicken Noodle Soup",
+      "calories": 250,
+      "image": "https://example.com/chicken_noodle_soup.jpg",
+      "ingredients": [
+        "2 boneless, skinless chicken breasts, cooked and shredded",
+        "8 cups chicken broth",
+        "2 carrots, sliced",
+        "2 celery stalks, chopped",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "1 bay leaf",
+        "1 teaspoon dried thyme",
+        "2 cups egg noodles",
+        "Salt and black pepper to taste",
+        "Fresh parsley, chopped (for garnish)"
+      ],
+      "instructions": [
+        "In a large soup pot, heat chicken broth over medium-high heat.",
+        "Add sliced carrots, chopped celery, diced onion, minced garlic, bay leaf, and dried thyme to the pot. Simmer for about 15-20 minutes, until vegetables are tender.",
+        "Add cooked and shredded chicken to the pot and continue to simmer.",
+        "Meanwhile, cook egg noodles separately according to package instructions. Drain and set aside.",
+        "Season the soup with salt and black pepper to taste. Discard the bay leaf.",
+        "To serve, place a portion of cooked egg noodles in each bowl and ladle the chicken noodle soup over them.",
+        "Garnish with chopped fresh parsley.",
+        "Serve hot."
+      ],
+      "serving_size": "6 servings"
+    }
+  },
+  {
+    "recipe": {
+      "name": "Grilled Salmon",
+      "calories": 350,
+      "image": "https://example.com/grilled_salmon.jpg",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "1 lemon, sliced",
+        "1 teaspoon dried dill",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Preheat your grill to medium-high heat and oil the grates.",
+        "In a small bowl, combine olive oil, minced garlic, dried dill, salt, and black pepper.",
+        "Brush the salmon fillets with the olive oil mixture.",
+        "Place lemon slices on top of each fillet.",
+        "Grill the salmon for about 4-5 minutes per side, or until it flakes easily with a fork.",
+        "Serve hot with your choice of side dishes."
+      ],
+      "serving_size": "4 servings"
+    }
+  },
+  {
+    "recipe": {
+      "name": "Caprese Salad",
+      "calories": 180,
+      "image": "https://example.com/caprese_salad.jpg",
+      "ingredients": [
+        "4 ripe tomatoes, sliced",
+        "8 oz fresh mozzarella cheese, sliced",
+        "1/4 cup fresh basil leaves",
+        "2 tablespoons extra-virgin olive oil",
+        "Balsamic glaze (optional)",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "On a serving platter, arrange the tomato slices and mozzarella cheese slices alternately.",
+        "Tuck fresh basil leaves between the tomato and cheese slices.",
+        "Drizzle extra-virgin olive oil over the salad.",
+        "Season with salt and black pepper to taste.",
+        "If desired, drizzle with balsamic glaze for added flavor.",
+        "Serve as a light and refreshing appetizer or side dish."
+      ],
+      "serving_size": "4 servings"
+    }
+  },
+  {
+    "recipe": {
+      "name": "Beef Stroganoff",
+      "calories": 450,
+      "image": "https://example.com/beef_stroganoff.jpg",
+      "ingredients": [
+        "1 lb beef sirloin, thinly sliced",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "8 oz mushrooms, sliced",
+        "2 tablespoons butter",
+        "2 tablespoons all-purpose flour",
+        "1 cup beef broth",
+        "1 tablespoon Worcestershire sauce",
+        "1/2 cup sour cream",
+        "Salt and black pepper to taste",
+        "Cooked egg noodles for serving"
+      ],
+      "instructions": [
+        "In a large skillet, melt butter over medium-high heat.",
+        "Add sliced beef and cook until browned. Remove beef from the skillet and set aside.",
+        "In the same skillet, add chopped onion, minced garlic, and sliced mushrooms. Cook until vegetables are tender.",
+        "Stir in all-purpose flour and cook for a minute to remove the raw flour taste.",
+        "Gradually add beef broth and Worcestershire sauce, stirring constantly until the sauce thickens.",
+        "Return the cooked beef to the skillet and simmer for a few minutes.",
+        "Remove from heat and stir in sour cream. Season with salt and black pepper.",
+        "Serve the beef stroganoff over cooked egg noodles."
+      ],
+      "serving_size": "4 servings"
+    }
+  },
+  {
+    "recipe": {
+      "name": "Vegetable Lasagna",
+      "calories": 320,
+      "image": "https://example.com/vegetable_lasagna.jpg",
+      "ingredients": [
+        "9 lasagna noodles, cooked and drained",
+        "2 cups ricotta cheese",
+        "1 egg",
+        "2 cups shredded mozzarella cheese",
+        "1 cup grated Parmesan cheese",
+        "3 cups marinara sauce",
+        "2 cups mixed vegetables (e.g., spinach, zucchini, bell peppers)",
+        "Salt and black pepper to taste",
+        "Fresh basil leaves (for garnish)"
+      ],
+      "instructions": [
+        "Preheat your oven to 350°F (175°C).",
+        "In a bowl, combine ricotta cheese and beaten egg. Season with salt and black pepper.",
+        "In a greased baking dish, layer lasagna noodles, ricotta mixture, mixed vegetables, mozzarella cheese, Parmesan cheese, and marinara sauce. Repeat the layers until ingredients are used up, ending with a layer of sauce and cheese on top.",
+        "Cover the baking dish with foil and bake in the preheated oven for 30 minutes.",
+        "Remove the foil and bake for an additional 15 minutes until the lasagna is bubbly and the cheese is golden brown.",
+        "Garnish with fresh basil leaves before serving."
+      ],
+      "serving_size": "6 servings"
+    }
+  },
+  {
+    "recipe": {
+      "name": "Mango Salsa",
+      "calories": 70,
+      "image": "https://example.com/mango_salsa.jpg",
+      "ingredients": [
+        "2 ripe mangoes, diced",
+        "1/2 red onion, finely chopped",
+        "1 red bell pepper, diced",
+        "1 jalapeño pepper, minced (remove seeds for milder heat)",
+        "1/4 cup fresh cilantro leaves, chopped",
+        "Juice of 2 limes",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "In a bowl, combine diced mangoes, finely chopped red onion, diced red bell pepper, minced jalapeño pepper, and chopped cilantro leaves.",
+        "Squeeze the juice of 2 limes over the mixture and stir to combine.",
+        "Season the mango salsa with salt and black pepper to taste.",
+        "Chill in the refrigerator for at least 30 minutes before serving.",
+        "Serve as a refreshing condiment for grilled meats or as a dip with tortilla chips."
+      ],
+      "serving_size": "4 servings"
+    }
+  },
+  {
+    "recipe": {
+      "name": "Lemon Garlic Shrimp Pasta",
+      "calories": 400,
+      "image": "https://example.com/lemon_garlic_shrimp_pasta.jpg",
+      "ingredients": [
+        "8 oz linguine or spaghetti",
+        "1 lb large shrimp, peeled and deveined",
+        "4 cloves garlic, minced",
+        "2 tablespoons olive oil",
+        "1 lemon, zested and juiced",
+        "1/2 cup chicken broth",
+        "1/4 cup heavy cream",
+        "Fresh parsley, chopped (for garnish)",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Cook linguine or spaghetti according to package instructions. Drain and set aside.",
+        "Season shrimp with salt and black pepper.",
+        "In a large skillet, heat olive oil over medium-high heat. Add minced garlic and sauté for about 1 minute until fragrant.",
+        "Add shrimp to the skillet and cook until pink, about 2-3 minutes per side. Remove shrimp from the skillet and set aside.",
+        "In the same skillet, add lemon zest, lemon juice, chicken broth, and heavy cream. Bring to a simmer and cook for a few minutes until the sauce thickens.",
+        "Return cooked pasta and shrimp to the skillet, tossing to coat with the lemon garlic sauce.",
+        "Season with additional salt and black pepper if needed.",
+        "Serve hot, garnished with chopped fresh parsley."
+      ],
+      "serving_size": "4 servings"
+    }
+  },
+  {
+    "recipe": {
+      "name": "Homemade Guacamole",
+      "calories": 120,
+      "image": "https://example.com/guacamole.jpg",
+      "ingredients": [
+        "3 ripe avocados, peeled and mashed",
+        "1 small onion, finely chopped",
+        "2 roma (plum) tomatoes, diced",
+        "1 jalapeño pepper, minced (remove seeds for milder heat)",
+        "2 cloves garlic, minced",
+        "Juice of 1 lime",
+        "Salt and black pepper to taste",
+        "Fresh cilantro leaves, chopped (for garnish)"
+      ],
+      "instructions": [
+        "In a bowl, mash the peeled avocados with a fork or potato masher.",
+        "Add finely chopped onion, diced tomatoes, minced jalapeño pepper, minced garlic, and lime juice to the mashed avocados.",
+        "Stir to combine all the ingredients thoroughly.",
+        "Season the guacamole with salt and black pepper to taste.",
+        "Chill in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+        "Garnish with chopped fresh cilantro leaves before serving.",
+        "Serve with tortilla chips or as a topping for tacos."
+      ],
+      "serving_size": "4 servings"
+    }
+  },
+  {
+    "recipe": {
+      "name": "Chicken Fajitas",
+      "calories": 380,
+      "image": "https://example.com/chicken_fajitas.jpg",
+      "ingredients": [
+        "1 lb boneless, skinless chicken breasts, sliced",
+        "1 red bell pepper, sliced",
+        "1 green bell pepper, sliced",
+        "1 onion, sliced",
+        "2 cloves garlic, minced",
+        "2 tablespoons fajita seasoning",
+        "2 tablespoons vegetable oil",
+        "Flour tortillas for serving",
+        "Sour cream, salsa, and shredded cheese for garnish"
+      ],
+      "instructions": [
+        "In a large skillet, heat vegetable oil over medium-high heat.",
+        "Add sliced chicken to the skillet and cook until no longer pink, about 5-7 minutes. Remove chicken from the skillet and set aside.",
+        "In the same skillet, add sliced bell peppers, sliced onion, and minced garlic. Sauté until the vegetables are tender-crisp.",
+        "Return the cooked chicken to the skillet and sprinkle with fajita seasoning. Stir to coat the chicken and vegetables with the seasoning.",
+        "Serve the chicken fajitas in flour tortillas, garnished with sour cream, salsa, and shredded cheese.",
+        "Roll up the tortillas and enjoy!"
+      ],
+      "serving_size": "4 servings"
+    }
+  },
+  {
+    "recipe": {
+      "name": "Pancakes",
+      "calories": 200,
+      "image": "https://example.com/pancakes.jpg",
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "2 tablespoons granulated sugar",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1 cup buttermilk",
+        "1 egg",
+        "2 tablespoons melted butter",
+        "1 teaspoon vanilla extract",
+        "Butter and maple syrup for serving"
+      ],
+      "instructions": [
+        "In a mixing bowl, whisk together all-purpose flour, granulated sugar, baking powder, baking soda, and salt.",
+        "In a separate bowl, whisk together buttermilk, egg, melted butter, and vanilla extract.",
+        "Pour the wet ingredients into the dry ingredients and stir until just combined. Be careful not to overmix; it's okay if there are some lumps.",
+        "Preheat a griddle or non-stick skillet over medium heat and grease it with a little butter or cooking spray.",
+        "Pour 1/4 cup of pancake batter onto the griddle for each pancake.",
+        "Cook until bubbles form on the surface, then flip and cook until golden brown on the other side.",
+        "Serve hot with butter and maple syrup."
+      ],
+      "serving_size": "4 servings"
+    }
+  }]

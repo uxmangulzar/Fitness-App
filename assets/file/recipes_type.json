@@ -1,0 +1,86 @@
+{
+    "recipes": [
+        {
+            "type": "Breakfast",
+            "name": "Scrambled Eggs",
+            "serves": 2,
+            "nutrition": {
+                "calories": 140,
+                "carbohydrates": "1g",
+                "protein": "12g",
+                "fat": "10g"
+            },
+            "ingredients": [
+                "4 large eggs",
+                "2 tablespoons milk",
+                "Salt and pepper to taste",
+                "2 tablespoons butter"
+            ],
+            "instructions": [
+                "In a bowl, whisk together eggs, milk, salt, and pepper.",
+                "Heat butter in a non-stick pan over medium heat.",
+                "Pour the egg mixture into the pan and cook, stirring gently, until eggs are just set.",
+                "Serve hot."
+            ]
+        },
+        {
+            "type": "Lunch",
+            "name": "Grilled Chicken Salad",
+            "serves": 4,
+            "nutrition": {
+                "calories": 250,
+                "carbohydrates": "8g",
+                "protein": "30g",
+                "fat": "11g"
+            },
+            "ingredients": [
+                "2 boneless, skinless chicken breasts",
+                "4 cups mixed greens",
+                "1 cup cherry tomatoes, halved",
+                "1/2 cucumber, sliced",
+                "1/4 red onion, thinly sliced",
+                "2 tablespoons olive oil",
+                "2 tablespoons balsamic vinegar",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Season chicken breasts with salt and pepper.",
+                "Grill chicken until cooked through, about 6-8 minutes per side. Slice into strips.",
+                "In a large bowl, combine mixed greens, cherry tomatoes, cucumber, and red onion.",
+                "Whisk together olive oil and balsamic vinegar. Drizzle over the salad and toss to combine.",
+                "Top the salad with grilled chicken strips.",
+                "Serve immediately."
+            ]
+        },
+        {
+            "type": "Immune Support",
+            "name": "Immunity Booster Soup",
+            "serves": 6,
+            "nutrition": {
+                "calories": 180,
+                "carbohydrates": "15g",
+                "protein": "6g",
+                "fat": "10g"
+            },
+            "ingredients": [
+                "2 cloves garlic, minced",
+                "1 onion, chopped",
+                "3 carrots, sliced",
+                "3 celery stalks, chopped",
+                "1 cup spinach leaves",
+                "6 cups vegetable broth",
+                "1 teaspoon turmeric powder",
+                "1/2 teaspoon ginger powder",
+                "Salt and pepper to taste",
+                "1 tablespoon olive oil"
+            ],
+            "instructions": [
+                "In a large pot, heat olive oil over medium heat. Add minced garlic and chopped onion, sauté until fragrant.",
+                "Add sliced carrots, chopped celery, and spinach leaves to the pot. Cook for a few minutes.",
+                "Pour in the vegetable broth and add turmeric, ginger, salt, and pepper. Bring to a boil.",
+                "Reduce heat and simmer for about 20 minutes until vegetables are tender.",
+                "Serve hot as an immune-boosting soup."
+            ]
+        }
+    ]
+}

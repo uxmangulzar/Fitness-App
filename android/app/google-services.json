@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223236970681",
+    "project_id": "fitness-app-3fee4",
+    "storage_bucket": "fitness-app-3fee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223236970681:android:a8fb6f150d1419f5ede368",
+        "android_client_info": {
+          "package_name": "com.codesteem.fitness_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWtllvn6WYXrztovX5w9Z50T4kVEV8Hck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
